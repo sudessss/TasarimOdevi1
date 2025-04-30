@@ -1,0 +1,8 @@
+<resources>
+    <string name="isim">TasarimCalismasiOdev</string>
+    <string name="aciklama">Yün Karışımlı Kahverengi \nKısa Kaban</string>
+    <string name="kalip">Oversize / Geniş Kesim</string>
+    <string name="kod">1110617-89068 - KAHVERENGİ</string>
+    <string name="fiyat">1.959,99 TL</string>
+    <string name="buton">Sepete Ekle</string>
+</resources>

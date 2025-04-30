@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aciklama">Homework</string>
+    <string name="isim">Homework</string>
+    <string name="kalip">Oversize / Wide Cut</string>
+    <string name="kod">1110617-89068 - BROWN</string>
+    <string name="fiyat">56,10 USD</string>
+    <string name="buton">Add to Cart</string>
+</resources>
